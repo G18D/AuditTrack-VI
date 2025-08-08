@@ -1,0 +1,13 @@
+streamlit
+pytesseract
+pdf2image
+openai
+fpdf
+PyPDF2
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+opencv-python-headless
+numpy
+python-dotenv
